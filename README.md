@@ -99,15 +99,15 @@ Before getting started, ensure you have:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page Screenshot](path/to/homepage_screenshot.png)  
+![Home Page Screenshot](./Images/home_page.png)
 *Quick stats and the quick add expense feature.*
 
 ### Personal Expense Tracker
-![Personal Expense Screenshot](path/to/personal_expense_screenshot.png)  
+![Personal Expense Screenshot](./Images/Personal_Expense.png)  
 *Add and view your personal expenses.*
 
 ### Group Expense Splitter
-![Group Expense Screenshot](path/to/group_expense_screenshot.png)  
+![Group Expense Screenshot](./Images/Group_Expense.png)  
 *Manage and view shared expense balances.*
 
 ---
